@@ -1,0 +1,7 @@
+{
+  "scenario": "Governed AI data platform",
+  "databricks": ["Data Engineer Associate", "Data Engineer Professional", "Machine Learning Associate", "Machine Learning Professional"],
+  "isaca": ["CISA", "CISM", "CRISC", "CGEIT", "AAIA"],
+  "microsoft": ["AI-500", "AB-250", "AB-410", "AB-620", "DP-420", "DP-600", "DP-800"],
+  "flow": ["ingest", "quality", "ml", "ai-policy", "risk", "publish", "audit"]
+}
